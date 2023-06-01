@@ -226,6 +226,7 @@ article footer {
     border: 2px solid rgb(9, 104, 212);
     border-radius: 20px;
     -webkit-box-shadow: rgba(110, 110, 110, .5) 7px 7px 10px;
+    transition:all 2s;
 }
 
 #skin:hover {
