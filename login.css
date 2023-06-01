@@ -1,0 +1,65 @@
+header {
+    text-align: center;
+    margin-top: 200px;
+    font: bold 55px Georgia;
+    color: white;
+}
+
+#section {
+    border: 5px solid #93b400;
+    margin: 10px 100px;
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    -webkit-box-shadow: rgba(110, 110, 110, .5) 10px 10px 15px;
+}
+
+#username {
+    text-align: center;
+    padding: 5px 80px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#pwd {
+    text-align: center;
+    padding: 5px 125px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+span {
+    font: bold 15px tahoma;
+}
+
+#submit {
+    color: white;
+    font: bold 20px tahoma;
+    background-color: dodgerblue;
+    padding: 10px 223px;
+    border: 0px;
+    border-radius: 10px;
+    -webkit-transition: -webkit-transform 1s, opacity 2s, background 2s;
+}
+
+#submit:hover {
+    box-shadow: rgba(110, 110, 110, .5) 10px 10px 15px;
+    transform: scale(1.1);
+    opacity: 1;
+    background: orange;
+}
+
+#body {
+    background-image: url('https://pbs.twimg.com/media/FGXKBt0WUAEz_Uh?format=jpg&name=large');
+    background-size: cover;
+}
+
+#new {
+    border: none;
+    font: bold 20px tahoma;
+    color: white;
+    padding: 5px 30px;
+    margin: 30px;
+    border-radius: 10px;
+    background-color: #93b400;
+}
