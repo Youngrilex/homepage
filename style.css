@@ -226,6 +226,11 @@ article footer {
     background: #c2e915;
     border: 2px solid rgb(9, 104, 212);
     border-radius: 20px;
+    -webkit-box-shadow: rgba(110, 110, 110, .5) 7px 7px 10px;
+}
+
+#skin:hover {
+    transform: scale(1.1);
 }
 
 #leftbox {
